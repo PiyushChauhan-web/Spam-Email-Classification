@@ -24,7 +24,7 @@ Spam email classification is a critical task in email filtering systems to ensur
 
 ## Dataset
 The project uses a publicly available dataset, such as the Email Spam Collection dataset.
-(https://github.com/AkshaanAngral/Spam_Mail_Prediction/blob/main/mail_data.csv) or similar email datasets. 
+(https://github.com/AkshaanAngral/Spam_Mail_Prediction/blob/main/mail_data.csv) 
 The dataset contains labeled examples of spam and ham emails.
 
 ### Dataset Structure
