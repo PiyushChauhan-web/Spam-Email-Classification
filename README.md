@@ -104,8 +104,8 @@ Contributions are welcome! If you have ideas or improvements, please create a pu
    ```
 5. Open a pull request on GitHub.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+### Try it Online
+Link --> https://spam-email-classification-9stdviejij4poafhg6vzzy.streamlit.app/ 
 
 ---
 
